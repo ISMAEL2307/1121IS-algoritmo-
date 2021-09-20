@@ -1,0 +1,10 @@
+var num1 = 10; 
+var num2 = 150;
+var suma = num1 + num2;
+var resta = num1 - num2;
+var multiplicasion = num1 * num2;
+var dividir = num1 / num2;
+console.log("suma: "+suma);
+console.log("resta: "+resta);
+console.log("multipicasion: "+multiplicasion);
+console.log("dividir: "+dividir);
